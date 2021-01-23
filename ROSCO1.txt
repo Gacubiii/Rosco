@@ -1,6 +1,6 @@
 A (Empieza por A) Guardar dinero como previsión para necesidades futuras (AHORRAR);
-B (Empieza por A) Subvención para realizar estudios o investigaciones (BECA);
-C (Empieza por B) Atribuir o echar la culpa a alguien (CULPAR),
+B (Empieza por B) Subvención para realizar estudios o investigaciones (BECA);
+C (Empieza por C) Atribuir o echar la culpa a alguien (CULPAR),
 D (Empieza por D) Desterrar a alguien de algún lugar, por lo regular extranjero, y confinarlo allí por razones políticas o como castigo (DEPORTAR);
 E (Empieza por E) Capa exterior que cubre natural o artificialmente una cosa (ENVOLTORIO);
 F (Empieza por F) Moderar o parar el movimiento de algo (FRENAR);
