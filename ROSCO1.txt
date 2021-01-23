@@ -15,7 +15,7 @@ N (Empieza por N) Estado propio de la persona nacida o naturalizada en una naci�
 Ñ (Contiene la Ñ) Representarse en la fantasía imágenes o sucesos mientras se duerme (SOÑAR);
 O (Empieza por O) Asociación de personas regulada por un conjunto de normas en función de determinados fines (ORGANIZACIÓN);
 P (Empieza por P) Iniciar o impulsar una idea o proyecto procurando su logro (PROMOVER); 
-Q (Contiene la Q) Cometer delito (DELINQUIR)
+Q (Contiene la Q) Cometer delito (DELINQUIR);
 R (Empieza por R) Someter material usado a un proceso para que se pueda volver a utilizar (RECICLAR);
 S (Empieza por S) Hacer cesar, hacer desaparecer, anular (SUPRIMIR);
 T (Empieza por T) Tributo que se impone a la utilización de ciertos servicios, o al ejercicio de ciertas actividades (TASA);
