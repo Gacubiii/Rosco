@@ -12,7 +12,7 @@
 (Empieza por L) Material derretido e incandescente que emite un volcán. (LAVA);
 (Empieza por M) Sitio donde el agua mana (brota) de la tierra. (MANANTIAL);
 (Empieza por N) Nube muy baja que dificulta la visión. (NIEBLA);
-(Contiene la Ñ) Animal mamífero de gran tamaño, con cabeza de toro. Tiene pelo pardo o gris y una larga cola. Come vegetales. Vive en África. (ÑU);
+(Empieza por Ñ) Animal mamífero de gran tamaño, con cabeza de toro. Tiene pelo pardo o gris y una larga cola. Come vegetales. Vive en África. (ÑU);
 (Empieza por O) Lugar aislado en el desierto en el cual hay agua y vegetacion. (OASIS);
 (Empieza por P) Dar dinero a una persona a cambio de un objeto, un trabajo o un servicio. (PAGAR);
 (Empieza por Q) Sentir afecto hacia una persona, animal o cosa. (QUERER);
