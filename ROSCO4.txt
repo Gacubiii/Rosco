@@ -6,7 +6,7 @@
 (Empieza por F) Recipiente pequeño de cristal. (FRASCO);
 (Empieza por G) Máquina que se usa para levantar y transportar grandes pesos. (GRÚA);
 (Empieza por H) Instrumento de hierro o acero que sirve para trabajar con las manos. (HERRAMIENTA);
-(Empieza por I) . (INTERRUPTOR);
+(Empieza por I) Representación gráfica esquemática utilizada para identificar funciones o programas. (ICONO);
 (Empieza por J) Selva propia del clima tropical. (JUNGLA);
 (Empieza por K) Salsa de tomate condimentada con vinagre, azúcar y especias. (KETCHUP);
 (Empieza por L) Pieza de arcilla con la que se construyen muros. (LADRILLOS);
