@@ -24,4 +24,4 @@
 (Empieza por W) Deporte acuático. Consiste en navegar sobre una tabla con una vela. (WINDSURF);
 (Contiene la X) Que está extinguido. (EXTINTO);
 (Empieza por Y) Lugar en el que hay gran cantidad de un mineral, una roca o restos de antiguas culturas. (YACIMIENTO);
-(Empieza por Z) Persona que habitualmente utiliza su mano o pie izquierdos. (ZURDA);
+(Empieza por Z) Agitar o sacudir algo o a alguien de un lado a otro. (ZARANDEAR);
