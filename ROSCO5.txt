@@ -8,7 +8,7 @@
 (Empieza por H) Mamífero carnívoro de África y Asia, nocturno y principalmente carroñero. (HIENA);
 (Empieza por I) Conjunto de conocimientos técnicos y científicos aplicados a la actividad industrial y la optimización de los recursos. (INGENIERÍA);
 (Empieza por J) Planeta del sistema solar. (JÚPITER);
-(Empieza por K) Embarcación ligera. (KAYAK);
+(Empieza por K) Embarcación parecida a una canoa. (KAYAK);
 (Empieza por L) Material derretido e incandescente que emite un volcán. (LAVA);
 (Empieza por M) Sitio donde el agua mana (brota) de la tierra. (MANANTIAL);
 (Empieza por N) Nube muy baja que dificulta la visión. (NIEBLA);
