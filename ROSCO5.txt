@@ -22,6 +22,6 @@
 (Empieza por U) Instrumento musical de cuerda. Es parecido a la guitarra, pero más pequeño y con 4 cuerdas. (UKELELE);
 (Empieza por V) Enfermedad contagiosa que provoca fiebre y granos rojos en la piel. Los granos pican mucho. (VARICELA);
 (Empieza por W) Deporte acuático. Consiste en navegar sobre una tabla con una vela. (WINDSURF);
-(Empieza por X) Órganos   externos, articulados   con   el   tronco, que cumple   funciones   de locomoción, vuelo o manipulación de objetos en los animales. (EXTREMIDADES);
-(Empieza por Y) Hembra del caballo. (YEGUA);
+(Contiene la X) Que está extinguido. (EXTINTO);
+(Empieza por Y) Lugar en el que hay gran cantidad de un mineral, una roca o restos de antiguas culturas. (YACIMIENTO);
 (Empieza por Z) Persona que habitualmente utiliza su mano o pie izquierdos. (ZURDA);
