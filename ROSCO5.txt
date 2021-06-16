@@ -21,7 +21,7 @@
 (Empieza por T) Que hace daño a la salud y puede provocar la muerte. (TÓXICO);
 (Empieza por U) Instrumento musical de cuerda. Es parecido a la guitarra, pero más pequeño y con 4 cuerdas. (UKELELE);
 (Empieza por V) Enfermedad contagiosa que provoca fiebre y granos rojos en la piel. Los granos pican mucho. (VARICELA);
-(Empieza por W) Animal marsupial que habita en Australia.  Se parece al canguro, pero es de menor tamaño. (WALABI);
+(Empieza por W) Deporte acuático. Consiste en navegar sobre una tabla con una vela. (WINDSURF);
 (Empieza por X) Órganos   externos, articulados   con   el   tronco, que cumple   funciones   de locomoción, vuelo o manipulación de objetos en los animales. (EXTREMIDADES);
 (Empieza por Y) Hembra del caballo. (YEGUA);
 (Empieza por Z) Persona que habitualmente utiliza su mano o pie izquierdos. (ZURDA);
